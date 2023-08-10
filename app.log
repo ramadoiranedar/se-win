@@ -1,0 +1,32 @@
+2023-08-09T13:52:25.920Z info: Start the server and running on port 3000
+2023-08-09T13:52:27.313Z info: Database and tables synced
+2023-08-09T13:55:51.690Z info: controllers.healthController.healthCheck
+2023-08-09T13:56:17.907Z info: controllers.authController.login
+2023-08-09T13:56:17.908Z warn: Validation error
+2023-08-09T13:56:25.756Z info: controllers.authController.login
+2023-08-09T13:56:25.757Z warn: Validation error
+2023-08-09T13:56:34.175Z info: controllers.authController.login
+2023-08-09T13:56:34.176Z info: services.userService.getUserByEmail
+2023-08-09T13:56:41.652Z info: controllers.authController.login
+2023-08-09T13:56:41.654Z info: services.userService.getUserByEmail
+2023-08-09T13:57:03.327Z info: middlewares.authenticateJwt
+2023-08-09T13:57:03.332Z info: controllers.userController.getProfile
+2023-08-09T13:57:03.332Z info: services.userService.getUserById
+2023-08-09T13:57:24.987Z info: controllers.authController.register
+2023-08-09T13:57:24.987Z warn: Validation error
+2023-08-09T13:57:37.297Z info: controllers.authController.register
+2023-08-09T13:57:37.298Z warn: Validation error
+2023-08-09T13:57:46.748Z info: controllers.authController.register
+2023-08-09T13:57:47.015Z info: services.userService.registerUser
+2023-08-09T13:57:47.017Z info: repositories.userRepository.createUser
+2023-08-09T13:58:03.664Z info: controllers.authController.login
+2023-08-09T13:58:03.665Z info: services.userService.getUserByEmail
+2023-08-09T13:58:13.271Z info: middlewares.authenticateJwt
+2023-08-09T13:58:13.278Z info: controllers.userController.getProfile
+2023-08-09T13:58:13.278Z info: services.userService.getUserById
+2023-08-09T14:03:43.159Z info: Start the server and running on port 3000
+2023-08-09T14:03:43.953Z info: Database and tables synced
+2023-08-09T14:04:08.811Z info: controllers.authController.login
+2023-08-09T14:04:08.813Z info: services.userService.getUserByEmail
+2023-08-10T02:27:28.739Z info: Start the server and running on port undefined
+2023-08-10T02:27:29.975Z info: Database and tables synced
